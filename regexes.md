@@ -58,3 +58,9 @@ Not so humble brags
 Superbowl silliness
 -------------
 - (?i)(super ?bowls?|49ers|ravens|foot ?ball|half ?times?|kick ?off|touch ?downs?|field ?goals?|NFL|(first|second|third|fourth) quarters?|over ?times?|final scores)
+
+April Fool's
+-------------
+- (?i)april fool'?s?
+
+
