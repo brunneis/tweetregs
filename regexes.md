@@ -53,11 +53,13 @@ Tech geekery
 - [Bb]ig\s?[Dd]ata
 
 Not so humble brags
+---------------
 - (?i)(swag|yolo)
 
-Superbowl silliness
+Sports silliness
 -------------
 - (?i)(super ?bowls?|49ers|ravens|foot ?ball|half ?times?|kick ?off|touch ?downs?|field ?goals?|NFL|(first|second|third|fourth) quarters?|over ?times?|final scores)
+- (?i)(NBA|NFL|NRA|MLB|NCAA)
 
 April Fool's
 -------------
