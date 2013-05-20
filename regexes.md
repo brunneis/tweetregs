@@ -1,3 +1,8 @@
+Tumblr/Yahoo deal
+--------------
+- (?ism)^(?=.*?\bYahoo\b)(?=.*?\bTumblr\b).*$
+- ([Tt]umblr)|(([Dd]avid )?[Kk]arp)
+
 Conferences/events
 -----------------------------------
 - (?i)(\s|#)(ces)
@@ -6,9 +11,9 @@ Conferences/events
 - (?i)(#?\bted(\d{4})?\b|long beach)
 - (?i)#?oscars?|award|nomination|speech|best picture|actor|actress|(S|s)eth ?(MacFarlane|McFarlane)|Fonda|Nicholson
 
-People re-tweeting things you ignored the last time they tweeted it
+People re-tweeting things you ignored last time
 -------------
-- (?i)(in.*case|if).*you.*missed.*it
+- (?i)((in.*case|if).*you.*missed.*it|ICYMI)
 
 Plaintive requests for follows
 -------------
@@ -65,9 +70,5 @@ April Fool's
 -------------
 - (?i)april fool'?s?
 
-Tumblr/Yahoo deal
---------------
-- (?ism)^(?=.*?\bYahoo\b)(?=.*?\bTumblr\b).*$
-- ([Tt]umblr)|(([Dd]avid )?[Kk]arp)
 
 
