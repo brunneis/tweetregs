@@ -65,4 +65,9 @@ April Fool's
 -------------
 - (?i)april fool'?s?
 
+Tumblr/Yahoo deal
+--------------
+- (?ism)^(?=.*?\bYahoo\b)(?=.*?\bTumblr\b).*$
+- ([Tt]umblr)|(([Dd]avid )?[Kk]arp)
+
 
