@@ -53,6 +53,7 @@ Public conversations that have nothing to do with you
 Annoying people
 -------------
 - @?[Ll]ance\s?[Aa]rmstrong
+- @?[Mm]iley\s?[Cc]yrus
 
 Tech geekery
 -------------
