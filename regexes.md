@@ -2,6 +2,10 @@ Twitter IPO
 --------------
 - (?i)\btwitter\b.+\b(ipo|i\.p\.o\.)|\b(ipo|i\.p\.o\.).+\btwitter\b
 
+Current U.S. warmongering
+--------------
+- (?i)Pakistan|Afghanistan|Syria|Iran
+
 Conferences/events
 -----------------------------------
 - (?i)(\s|#)(ces)
