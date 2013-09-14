@@ -12,7 +12,7 @@ Conferences/events
 - (?i)(\s|#)(sxsw)
 - (?i)(\s|#)(crunchies)
 - (?i)(#?\bted(\d{4})?\b|vancouver)
-- (?i)#?oscars?|award|nomination|speech|best picture|actor|actress|(S|s)eth ?(MacFarlane|McFarlane)|Fonda|Nicholson
+- (?i)#?oscars?|award|nomination|speech|best picture|actor|actress
 
 People re-tweeting things you ignored last time
 -------------
