@@ -1,7 +1,6 @@
-Tumblr/Yahoo deal
+Twitter IPO
 --------------
-- (?ism)^(?=.*?\bYahoo\b)(?=.*?\bTumblr\b).*$
-- ([Tt]umblr)|(([Dd]avid )?[Kk]arp)
+- (?i)\btwitter\b.+\b(ipo|i\.p\.o\.)|\b(ipo|i\.p\.o\.).+\btwitter\b
 
 Conferences/events
 -----------------------------------
