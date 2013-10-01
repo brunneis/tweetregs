@@ -1,4 +1,4 @@
-Idiot, over-sharing travelers
+Over-sharing travelers
 --------------
 (?i)wheels (up|down)
 
