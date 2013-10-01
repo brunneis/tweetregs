@@ -1,3 +1,7 @@
+Shutting people up about government shutdown
+--------------
+- (?#Government Shutdown)(?i)(govern|shutdown|off|congress|senate|house|dem|rep(ub) )
+
 Over-sharing travelers
 --------------
 - (?i)wheels (up|down)
@@ -11,7 +15,7 @@ Current U.S. warmongering
 --------------
 - (?i)Pakistan|Afghanistan|Syria|Iran
 
-Conferences/events
+Conferences
 -----------------------------------
 - (?i)(\s|#)(ces)
 - (?i)(\s|#)(sxsw)
