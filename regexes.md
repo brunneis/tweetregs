@@ -1,6 +1,6 @@
 Over-sharing travelers
 --------------
-(?i)wheels (up|down)
+- (?i)wheels (up|down)
 
 
 Twitter IPO
