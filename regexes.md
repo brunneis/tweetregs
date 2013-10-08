@@ -1,6 +1,6 @@
-Annoying metaphors and similes
+Annoying tech metaphors, similes & cliches
 --------------
-- (?i)uber of
+- (?i)(uber|netflix|pinterest|craigslist|ebay|google) of
 
 Shutting people up about government shutdown
 --------------
