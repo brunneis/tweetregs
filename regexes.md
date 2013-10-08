@@ -1,3 +1,7 @@
+Annoying metaphors and similes
+--------------
+- (?i)uber of
+
 Shutting people up about government shutdown
 --------------
 - (?#Government Shutdown)(?i)(govern|shutdown|off|congress|senate|house|dem|rep(ub) )
