@@ -1,8 +1,21 @@
+New
+--------------
+Olympics
+- (?i)(olympics?|sochi|bode|vonn|medals?|sean white|dashcam|liggety)
+
+Fed
+- (?i)(yellen|fomc|fed)
+
+House of Cards
+- (?i)#?house( ?of)?(?= ?cards)|(?i)#?kevin(?= ?spacey)|(?i)#?Francis(?= ?Underwood)|(?i)#?Robin(?= ?Wright)|(?i)#?Claire(?= ?Underwood)|(?i)#?Kate(?= ?Mara)|(?i)#?Zoe(?= ?Barnes)
+
+
+
 Annoying tech metaphors, similes & cliches
 --------------
 - (?i)(uber|netflix|pinterest|craigslist|ebay|google) of
 
-Shutting people up about government shutdown
+Shutting people up about US government shutdown
 --------------
 - (?#Government Shutdown)(?i)(govern|shutdown|off|congress|senate|house|dem|rep(ub) )
 
