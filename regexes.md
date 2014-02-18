@@ -1,15 +1,8 @@
-New
+Topical
 --------------
-Olympics
 - (?i)(olympics?|sochi|bode|vonn|medals?|sean white|dashcam|liggety)
-
-Fed
 - (?i)(yellen|fomc|fed)
-
-House of Cards
 - (?i)#?house( ?of)?(?= ?cards)|(?i)#?kevin(?= ?spacey)|(?i)#?Francis(?= ?Underwood)|(?i)#?Robin(?= ?Wright)|(?i)#?Claire(?= ?Underwood)|(?i)#?Kate(?= ?Mara)|(?i)#?Zoe(?= ?Barnes)
-
-
 
 Annoying tech metaphors, similes & cliches
 --------------
@@ -23,16 +16,7 @@ Over-sharing travelers
 --------------
 - (?i)wheels (up|down)
 
-
-Twitter IPO
---------------
-- (?i)\btwitter\b.+\b(ipo|i\.p\.o\.)|\b(ipo|i\.p\.o\.).+\btwitter\b
-
-Current U.S. warmongering
---------------
-- (?i)Pakistan|Afghanistan|Syria|Iran
-
-Conferences
+Events
 -----------------------------------
 - (?i)(\s|#)(ces)
 - (?i)(\s|#)(sxsw)
@@ -78,7 +62,6 @@ Public conversations that have nothing to do with you
 
 Annoying people
 -------------
-- @?[Ll]ance\s?[Aa]rmstrong
 - @?[Mm]iley\s?[Cc]yrus
 
 Tech geekery
