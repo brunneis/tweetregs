@@ -4,7 +4,7 @@ Topical
 - (?i)(champagne|new year|ball drop|time square)
 - (?i)(wealth inequality|piketty)
 
-Annoying tech metaphors, similes & cliches
+Annoying tech metaphors & similes
 --------------
 - (?i)(uber|netflix|pinterest|craigslist|ebay|google) of
 
@@ -14,6 +14,7 @@ Over-sharers
 - (?i)(black|cyber) (monday|friday)
 
 Clichés
+--------------
 - ^(?=.*\bgo\b)(?=.*\bhome\b)(?=.*\bdrunk\b).*$
 - (?i)(said no one ever)
 
