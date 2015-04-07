@@ -1,14 +1,21 @@
 Topical
 --------------
-- (?i)(yellen|fomc|fed)
+- (?i)(yellen|fomc|fed|draghi)
+- (?i)(champagne|new year|ball drop|time square)
+- (?i)(wealth inequality|piketty)
 
 Annoying tech metaphors, similes & cliches
 --------------
 - (?i)(uber|netflix|pinterest|craigslist|ebay|google) of
 
-Over-sharing travelers
+Over-sharers
 --------------
 - (?i)wheels (up|down)
+- (?i)(black|cyber) (monday|friday)
+
+Clichés
+- ^(?=.*\bgo\b)(?=.*\bhome\b)(?=.*\bdrunk\b).*$
+- (?i)(said no one ever)
 
 Events
 -----------------------------------
