@@ -4,6 +4,7 @@ Topical
 - (?i)(champagne|new year|ball drop|time square)
 - (?i)(wealth inequality|piketty)
 - (?i)april fool'?s?
+- (?i)(black|cyber) (monday|friday)
 
 Annoying tech metaphors & similes
 --------------
@@ -12,7 +13,6 @@ Annoying tech metaphors & similes
 Over-sharers
 --------------
 - (?i)wheels (up|down)
-- (?i)(black|cyber) (monday|friday)
 
 Clichés
 --------------
