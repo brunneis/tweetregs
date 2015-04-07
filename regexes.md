@@ -3,6 +3,7 @@ Topical
 - (?i)(yellen|fomc|fed|draghi)
 - (?i)(champagne|new year|ball drop|time square)
 - (?i)(wealth inequality|piketty)
+- (?i)april fool'?s?
 
 Annoying tech metaphors & similes
 --------------
@@ -76,10 +77,3 @@ Sports silliness
 - (?i)(super ?bowls?|49ers|ravens|foot ?ball|half ?times?|kick ?off|touch ?downs?|field ?goals?|NFL|(first|second|third|fourth) quarters?|over ?times?|final scores)
 - (?i)(NBA|NFL|NRA|MLB|NCAA)
 - (?i)(march madness|sweet (sixteen|16)|bracket|ncaa|notre dame|kentucky|duke|north carolina|tar heels|xavier|west virginia|final (four|4))
-
-April Fool's
--------------
-- (?i)april fool'?s?
-
-
-
