@@ -1,16 +1,10 @@
 Topical
 --------------
-- (?i)(olympics?|sochi|bode|vonn|medals?|sean white|dashcam|liggety)
 - (?i)(yellen|fomc|fed)
-- (?i)#?house( ?of)?(?= ?cards)|(?i)#?kevin(?= ?spacey)|(?i)#?Francis(?= ?Underwood)|(?i)#?Robin(?= ?Wright)|(?i)#?Claire(?= ?Underwood)|(?i)#?Kate(?= ?Mara)|(?i)#?Zoe(?= ?Barnes)
 
 Annoying tech metaphors, similes & cliches
 --------------
 - (?i)(uber|netflix|pinterest|craigslist|ebay|google) of
-
-Shutting people up about US government shutdown
---------------
-- (?#Government Shutdown)(?i)(govern|shutdown|off|congress|senate|house|dem|rep(ub) )
 
 Over-sharing travelers
 --------------
@@ -60,14 +54,9 @@ Public conversations that have nothing to do with you
 -------------
 - ^\.@\w+\s+[A-Z]
 
-Annoying people
--------------
-- @?[Mm]iley\s?[Cc]yrus
-
 Tech geekery
 -------------
-- [Ss]ocial\s?[Gg]raph
-- [Gg]raph\s?[Ss]earch 
+- [Ss]ocial\s?[Gg]raph 
 - [Bb]ig\s?[Dd]ata
 
 Not so humble brags
@@ -78,6 +67,7 @@ Sports silliness
 -------------
 - (?i)(super ?bowls?|49ers|ravens|foot ?ball|half ?times?|kick ?off|touch ?downs?|field ?goals?|NFL|(first|second|third|fourth) quarters?|over ?times?|final scores)
 - (?i)(NBA|NFL|NRA|MLB|NCAA)
+- (?i)(march madness|sweet (sixteen|16)|bracket|ncaa|notre dame|kentucky|duke|north carolina|tar heels|xavier|west virginia|final (four|4))
 
 April Fool's
 -------------
